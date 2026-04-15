@@ -4,3 +4,8 @@ __pycache__/
 .env
 *.m4a
 *.wav
+.gradle/
+build/
+kotlin/.gradle/
+kotlin/build/
+kotlin/.kotlin/
